@@ -1,0 +1,17 @@
+prompt = (
+    'Your task is to analyze a given product title and assign '
+    'it to the most appropriate category from a predefined list.\n'
+    '{'
+    '    "product_title": "usb c to lightning cable apple mfi certified 3pack",\n'
+    '    "categories": [\n'
+    '        "abrasive finishing products",\n'
+    '        "accessories supplies",\n'
+    '        "baby activity entertainment products",\n'
+    '        "baby boys clothing shoes",\n'
+    '        "baby care products",\n'
+    '        ...\n'
+    '    ]\n'
+    '}\n\n'
+    'Provide your final classification in the following JSON format '
+    'without explanations: {"category": "chosen_category_name"}'
+)

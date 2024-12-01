@@ -1,0 +1,242 @@
+{
+    "dataset_split_1.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.6516,
+            "Precision": 0.6738,
+            "Recall": 0.6516,
+            "F1": 0.6369
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.6435,
+            "Precision": 0.7007,
+            "Recall": 0.6435,
+            "F1": 0.6279
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.6758,
+            "Precision": 0.7385,
+            "Recall": 0.6758,
+            "F1": 0.6687
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.6371,
+            "Precision": 0.7334,
+            "Recall": 0.6371,
+            "F1": 0.6284
+        }
+    ],
+    "dataset_split_2.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.7677,
+            "Precision": 0.8026,
+            "Recall": 0.7677,
+            "F1": 0.7608
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.7419,
+            "Precision": 0.7873,
+            "Recall": 0.7419,
+            "F1": 0.7368
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.7435,
+            "Precision": 0.7861,
+            "Recall": 0.7435,
+            "F1": 0.7328
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.7371,
+            "Precision": 0.7908,
+            "Recall": 0.7371,
+            "F1": 0.7314
+        }
+    ],
+    "dataset_split_3.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.7984,
+            "Precision": 0.8346,
+            "Recall": 0.7984,
+            "F1": 0.7948
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.7694,
+            "Precision": 0.7995,
+            "Recall": 0.7694,
+            "F1": 0.7556
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.7952,
+            "Precision": 0.8183,
+            "Recall": 0.7952,
+            "F1": 0.7827
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.7516,
+            "Precision": 0.8164,
+            "Recall": 0.7516,
+            "F1": 0.7391
+        }
+    ],
+    "dataset_split_4.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.7355,
+            "Precision": 0.7717,
+            "Recall": 0.7355,
+            "F1": 0.7284
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.7016,
+            "Precision": 0.7366,
+            "Recall": 0.7016,
+            "F1": 0.6923
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.7274,
+            "Precision": 0.7917,
+            "Recall": 0.7274,
+            "F1": 0.7131
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.6887,
+            "Precision": 0.7415,
+            "Recall": 0.6887,
+            "F1": 0.6823
+        }
+    ],
+    "dataset_split_5.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.8371,
+            "Precision": 0.8538,
+            "Recall": 0.8371,
+            "F1": 0.8361
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.771,
+            "Precision": 0.8239,
+            "Recall": 0.771,
+            "F1": 0.7577
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.8581,
+            "Precision": 0.8822,
+            "Recall": 0.8581,
+            "F1": 0.8569
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.7774,
+            "Precision": 0.806,
+            "Recall": 0.7774,
+            "F1": 0.7608
+        }
+    ],
+    "dataset_split_6.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.7935,
+            "Precision": 0.8289,
+            "Recall": 0.7935,
+            "F1": 0.7891
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.7645,
+            "Precision": 0.8293,
+            "Recall": 0.7645,
+            "F1": 0.7647
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.779,
+            "Precision": 0.8259,
+            "Recall": 0.779,
+            "F1": 0.7721
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.7629,
+            "Precision": 0.8118,
+            "Recall": 0.7629,
+            "F1": 0.7587
+        }
+    ],
+    "dataset_split_7.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.7677,
+            "Precision": 0.7716,
+            "Recall": 0.7677,
+            "F1": 0.756
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.7435,
+            "Precision": 0.7562,
+            "Recall": 0.7435,
+            "F1": 0.7213
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.7435,
+            "Precision": 0.7552,
+            "Recall": 0.7435,
+            "F1": 0.7214
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.7032,
+            "Precision": 0.7341,
+            "Recall": 0.7032,
+            "F1": 0.6863
+        }
+    ],
+    "dataset_split_8.csv": [
+        {
+            "Model": "gpt_4o_prediction",
+            "Accuracy": 0.7806,
+            "Precision": 0.8081,
+            "Recall": 0.7806,
+            "F1": 0.7827
+        },
+        {
+            "Model": "gpt_4o_mini_prediction",
+            "Accuracy": 0.7387,
+            "Precision": 0.7728,
+            "Recall": 0.7387,
+            "F1": 0.7421
+        },
+        {
+            "Model": "claude_3.5_sonnet_prediction",
+            "Accuracy": 0.7484,
+            "Precision": 0.7903,
+            "Recall": 0.7484,
+            "F1": 0.7549
+        },
+        {
+            "Model": "claude_3.5_haiku_prediction",
+            "Accuracy": 0.7435,
+            "Precision": 0.7832,
+            "Recall": 0.7435,
+            "F1": 0.7488
+        }
+    ]
+}
