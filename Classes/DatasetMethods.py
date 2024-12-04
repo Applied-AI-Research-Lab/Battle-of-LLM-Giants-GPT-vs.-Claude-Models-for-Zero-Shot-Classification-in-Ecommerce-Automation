@@ -709,7 +709,7 @@ DTS = DatasetMethods(dataset_path='Products2.csv')
 # # Identify the unique labels in a specific column (column_name) to understand your dataset
 # DTS.display_unique_values(column_name='category')
 
-print(DTS.calculate_row_lengths())
+# print(DTS.calculate_row_lengths())
 # If the 'id' column is missing, create a new column named 'id' starting from 1
 # DTS.add_id_column()
 
